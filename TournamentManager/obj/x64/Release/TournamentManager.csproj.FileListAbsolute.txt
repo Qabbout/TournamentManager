@@ -1,0 +1,9 @@
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\bin\x64\Release\TournamentManager.exe.config
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\bin\x64\Release\TournamentManager.exe
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\bin\x64\Release\TournamentManager.pdb
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.Form1.resources
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.Properties.Resources.resources
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.csproj.GenerateResource.cache
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.csproj.CoreCompileInputs.cache
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.exe
+C:\Users\Abdel-Rahman Kabbout\source\repos\TournamentManager\TournamentManager\obj\x64\Release\TournamentManager.pdb
